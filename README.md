@@ -1,6 +1,7 @@
 # Client_Segmentation_e-Commerce
 
 With this project we aim to:
+
 -Retain existing customers
 -Increase their average basket
 

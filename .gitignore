@@ -1,0 +1,35 @@
+*.jpg
+*.avi
+*.png
+*.h5
+*.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+
+# Distribution  / packaging
+*.egg-info/
+build
+dist
+
+#Unit test / coverage reports
+.coverage
+coverage.xml
+junit/*
+htmlcov/*
+
+#caches
+.pytest_cache/
+
+#IDEs checkpoints
+.vscode/
+.idea/
+*iml
+.ipynb_checkpoints
+
+MacOS
+.DS_Store

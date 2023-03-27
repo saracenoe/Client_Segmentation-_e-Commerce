@@ -15,17 +15,6 @@ We will seek to create an unsupervised classification model to answer the follow
 ## Presentation
 Slides showing the workflow of the project.
 
-## Installation
-  ### Prerequisites
-  Python 3.9
-    
-  ### Virtual environment
-      
-      conda create -n ecomm python=3.9 -y
-      conda activate ecomm
-      
-  ### Dependencies    
-      pip install -r requirements.txt
  
  ## Usage
   ### Data
